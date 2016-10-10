@@ -1,6 +1,6 @@
 # Portal
 
-**TODO: Add description**
+Portal game written in Elixir as part of the following intro to Elixir tutorial -> https://howistart.org/posts/elixir/1
 
 ## Installation
 
